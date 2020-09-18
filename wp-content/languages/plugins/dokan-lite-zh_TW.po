@@ -1,0 +1,2904 @@
+# Translation of Plugins - Dokan &#8211; Best WooCommerce Multivendor Marketplace Solution &#8211; Build Your Own Amazon, eBay, Etsy - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Dokan &#8211; Best WooCommerce Multivendor Marketplace Solution &#8211; Build Your Own Amazon, eBay, Etsy - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-06 12:45+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Dokan &#8211; Best WooCommerce Multivendor Marketplace Solution &#8211; Build Your Own Amazon, eBay, Etsy - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: templates/emails/vendor-new-order.php:47
+msgid "Quantity"
+msgstr "數量"
+
+#: includes/Admin/SetupWizardNoWC.php:20
+msgid "Welcome to Dokan"
+msgstr "歡迎來到Dokan"
+
+#: includes/Assets.php:651
+msgid "Product category is required"
+msgstr "必須填寫商品類別"
+
+#: includes/Assets.php:650
+msgid "Product title is required"
+msgstr "必須填寫商品名稱"
+
+#: includes/Admin/SetupWizard.php:492
+msgid "Minimum balance required to make a withdraw request ( Leave it blank to set no limits )"
+msgstr "必須填寫提款最低金額（填寫空白或者設定無上限）"
+
+#: includes/Product/functions.php:426 assets/js/vue-admin.js:5899
+msgid "Edit"
+msgstr "編輯"
+
+#: includes/Product/functions.php:311
+msgid "Catalog"
+msgstr "目錄"
+
+#: includes/wc-functions.php:765
+msgid "Your {site_title} order from {order_date} is complete"
+msgstr "Your {site_title} order from {order_date} is complete"
+
+#: includes/Withdraw/functions.php:209
+msgid "Swift code"
+msgstr "SWIFT代碼"
+
+#: includes/Withdraw/functions.php:179
+msgid "Your bank account number"
+msgstr "您的銀行帳號"
+
+#: includes/Withdraw/functions.php:173
+msgid "Your bank account name"
+msgstr "您的銀行帳戶名稱"
+
+#: includes/Withdraw/functions.php:126 assets/js/vue-admin.js:5883
+msgid "E-mail"
+msgstr "電子郵件"
+
+#: includes/Withdraw/functions.php:16
+msgid "Bank Transfer"
+msgstr "銀行轉帳"
+
+#: includes/Widgets/TopratedProducts.php:57
+msgid "Top Rated Product"
+msgstr "最高評分的產品"
+
+#: includes/Withdraw/functions.php:191
+msgid "Address of your bank"
+msgstr "你銀行的地址"
+
+#: includes/Withdraw/functions.php:185
+msgid "Name of bank"
+msgstr "銀行名稱"
+
+#: includes/Widgets/TopratedProducts.php:73
+#: includes/Widgets/BestSellingProducts.php:74
+msgid "Show Product Rating"
+msgstr "顯示產品評級"
+
+#: includes/Widgets/TopratedProducts.php:68
+#: includes/Widgets/BestSellingProducts.php:69
+msgid "No of Product:"
+msgstr "產品數量："
+
+#: includes/Widgets/ProductCategoryMenu.php:92
+#: includes/Widgets/StoreOpenClose.php:111
+#: includes/Widgets/StoreLocation.php:104
+#: includes/Widgets/TopratedProducts.php:64
+#: includes/Widgets/BestSellingProducts.php:65
+#: includes/Widgets/StoreContactForm.php:120
+#: includes/Widgets/StoreCategoryMenu.php:82
+msgid "Title:"
+msgstr "標題："
+
+#: includes/Widgets/BestSellingProducts.php:58
+msgid "Best Selling Product"
+msgstr "最暢銷產品"
+
+#: includes/wc-template.php:35
+msgid "Vendor Info"
+msgstr "供應商信息"
+
+#: includes/wc-functions.php:922
+msgid "Account details changed successfully."
+msgstr "帳戶詳細信息已成功更改。"
+
+#: includes/wc-functions.php:901
+msgid "New passwords do not match."
+msgstr "新密碼不匹配。"
+
+#: includes/wc-functions.php:898
+msgid "Please re-enter your password."
+msgstr "請重新輸入你的密碼。"
+
+#: includes/wc-functions.php:895
+msgid "Please enter your current password."
+msgstr "請輸入您當前的密碼。"
+
+#: includes/wc-functions.php:892
+msgid "Please fill out all password fields."
+msgstr "請填寫所有密碼字段。"
+
+#: includes/wc-functions.php:887
+msgid "Your current password is incorrect."
+msgstr "您當前的密碼不正確"
+
+#: includes/wc-functions.php:881
+msgid "This email address is already registered."
+msgstr "該郵箱地址已被註冊。"
+
+#: includes/wc-functions.php:879
+msgid "Please provide a valid email address."
+msgstr "請提供有效的電子郵件地址。"
+
+#: includes/wc-functions.php:873
+msgid "is a required field."
+msgstr "是必填字段。"
+
+#: includes/template-tags.php:492
+msgid "Log out"
+msgstr "登出"
+
+#: includes/template-tags.php:362
+msgid "Back to Dashboard"
+msgstr "返回儀表板"
+
+#: includes/Product/functions.php:287
+msgid "Go to the last page"
+msgstr "轉到最後一頁"
+
+#: includes/Product/functions.php:286
+msgid "Go to the next page"
+msgstr "轉到下一頁"
+
+#: includes/Product/functions.php:279
+msgid "Current page"
+msgstr "當前頁面"
+
+#: includes/Product/functions.php:278
+msgid "Select Page"
+msgstr "選擇頁面"
+
+#: includes/Product/functions.php:276
+msgid "Go to the previous page"
+msgstr "轉到上一頁"
+
+#: includes/Product/functions.php:275
+msgid "Go to the first page"
+msgstr "轉到第一頁"
+
+#: includes/Product/functions.php:272
+msgid "Expand"
+msgstr "擴大"
+
+#: includes/Product/functions.php:261
+msgid "Save Variations"
+msgstr "保存變化"
+
+#: includes/Product/functions.php:221
+msgid "No default"
+msgstr "沒有默認值"
+
+#: includes/Product/functions.php:203
+msgid "Default Form Values: These are the attributes that will be pre-selected on the frontend."
+msgstr "默認表單值：這些是在前端預先選擇的屬性。"
+
+#: includes/Product/functions.php:196
+msgid "Go"
+msgstr "走"
+
+#: includes/Product/functions.php:192
+msgid "Download expiry"
+msgstr "下載到期"
+
+#: includes/Order/functions.php:520
+msgid "Failed"
+msgstr "失敗了"
+
+#: includes/Order/functions.php:495
+msgid "Pending Payment"
+msgstr "待付款"
+
+#: includes/functions.php:2116
+msgid "1 business day"
+msgstr "1個工作日"
+
+#: includes/functions.php:2115
+msgid "Ready to ship in..."
+msgstr "準備出貨..."
+
+#: includes/functions.php:2093
+msgid "- Select a State -"
+msgstr " - 選擇一個州 - "
+
+#: includes/functions.php:2074 includes/functions.php:2097
+msgid "Everywhere Else"
+msgstr "其他地方"
+
+#: includes/functions.php:2070
+msgid "- Select a location -"
+msgstr " - 選擇位置 - "
+
+#: includes/functions.php:1024
+msgid "Author"
+msgstr "作者"
+
+#: includes/Admin/functions.php:221 includes/Admin/functions.php:495
+#: includes/REST/AdminReportController.php:142 includes/reports.php:359
+msgid "Number of orders"
+msgstr "訂單數量"
+
+#: includes/Admin/functions.php:218 includes/Admin/functions.php:492
+msgid "Total: "
+msgstr "總： "
+
+#: includes/Admin/functions.php:211 includes/Admin/functions.php:485
+#: includes/REST/AdminReportController.php:134
+msgid "Total Sales"
+msgstr "總銷售額"
+
+#: includes/Admin/Hooks.php:338
+msgid "Toggle Sub-orders"
+msgstr "切換子訂單"
+
+#: includes/Admin/Hooks.php:143
+msgid "Hide Sub-Orders"
+msgstr "隱藏子訂單"
+
+#: includes/Admin/Hooks.php:143
+msgid "Show Sub-Orders"
+msgstr "顯示子訂單"
+
+#: includes/Admin/Hooks.php:80 includes/Admin/Hooks.php:85
+msgid "Sub Order"
+msgstr "次級訂單"
+
+#: includes/Admin/Hooks.php:79 assets/js/vue-admin.js:3726
+msgid "Actions"
+msgstr "行動"
+
+#: includes/Admin/SetupWizard.php:648
+msgid "Your Marketplace is Ready!"
+msgstr "你的市場已經準備好了！"
+
+#: includes/Admin/SetupWizard.php:519
+msgid "Order status for which vendor can make a withdraw request."
+msgstr "供應商可以提出撤銷請求的訂單狀態。"
+
+#: includes/Order/functions.php:500 includes/Admin/SetupWizard.php:514
+msgid "On-hold"
+msgstr "等候接聽"
+
+#: includes/Admin/SetupWizard.php:496
+msgid "Order Status for Withdraw"
+msgstr "撤銷訂單狀態"
+
+#: includes/Admin/SetupWizard.php:448
+msgid "Withdraw Setup"
+msgstr "撤銷設置"
+
+#: includes/Admin/Settings.php:501
+msgid "Store Header Template"
+msgstr "商店標題模板"
+
+#: includes/Admin/Settings.php:284
+msgid "Vendor Setup Wizard Logo"
+msgstr "供應商設置嚮導徽標"
+
+#: includes/Admin/Settings.php:442
+msgid "Terms and Conditions Page"
+msgstr "條款和條件頁面"
+
+#: includes/Admin/Settings.php:402 includes/Admin/SetupWizard.php:489
+msgid "Minimum Withdraw Limit"
+msgstr "最低提款限額"
+
+#: includes/Admin/Settings.php:394 includes/Admin/SetupWizard.php:452
+msgid "Withdraw Methods"
+msgstr "提款方式"
+
+#: includes/Admin/Settings.php:369
+msgid "Disable add new product in popup view"
+msgstr "禁用添加新產品彈出式視圖"
+
+#: includes/Admin/Settings.php:368
+msgid "Disable Product Popup"
+msgstr "禁用產品彈出窗口"
+
+#: templates/admin-setup-wizard/step-selling.php:47
+msgid "Vendor can change order status"
+msgstr "供應商可以更改訂單狀態"
+
+#: includes/Admin/Settings.php:375
+#: templates/admin-setup-wizard/step-selling.php:39
+msgid "Order Status Change"
+msgstr "訂單狀態更改"
+
+#: includes/Admin/Settings.php:306
+msgid "Enable Terms and Conditions for vendor stores"
+msgstr "啟用供應商商店的條款和條件"
+
+#: includes/Admin/Settings.php:277
+#: templates/admin-setup-wizard/step-store.php:7
+msgid "Vendor Store URL"
+msgstr "供應商商店網址"
+
+#: includes/Admin/Settings.php:270
+msgid "Admin area access"
+msgstr "管理區域訪問"
+
+#: includes/Admin/Settings.php:237
+msgid "Appearance"
+msgstr "出現"
+
+#: includes/Admin/Settings.php:232
+msgid "Page Settings"
+msgstr "頁面設置"
+
+#: includes/Admin/Settings.php:227 includes/Admin/Pointers.php:208
+msgid "Withdraw Options"
+msgstr "取款選項"
+
+#: includes/Admin/Settings.php:222 includes/Admin/Pointers.php:191
+msgid "Selling Options"
+msgstr "賣出期權"
+
+#: includes/Admin/Settings.php:217
+msgid "General"
+msgstr "一般"
+
+#: includes/Assets.php:490
+msgid "Please enter a value between {0} and {1}."
+msgstr "請輸入{0}到{1}之間的值。"
+
+#: includes/Assets.php:489
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "請輸入{0}到{1}個字符之間的值。"
+
+#: includes/Assets.php:488
+msgid "Please enter at least {0} characters."
+msgstr "請輸入至少{0}個字符。"
+
+#: includes/Assets.php:487
+msgid "Please enter no more than {0} characters."
+msgstr "請輸入不超過{0}個字符。"
+
+#: includes/Assets.php:486
+msgid "Please enter the same value again."
+msgstr "請再次填寫同等數值。"
+
+#: includes/Assets.php:485
+msgid "Please enter a valid credit card number."
+msgstr "請輸入一個有效的信用卡號碼。"
+
+#: includes/Assets.php:484
+msgid "Please enter only digits."
+msgstr "請輸入數字。"
+
+#: includes/Assets.php:483
+msgid "Please enter a valid number."
+msgstr "請輸入有效的號碼。"
+
+#: includes/Assets.php:482
+msgid "Please enter a valid date (ISO)."
+msgstr "請輸入有效的日期（ISO）。"
+
+#: includes/Assets.php:481
+msgid "Please enter a valid date."
+msgstr "請輸入有效的日期。"
+
+#: includes/Assets.php:480
+msgid "Please enter a valid URL."
+msgstr "請輸入有效網址。"
+
+#: includes/Assets.php:479
+msgid "Please enter a valid email address."
+msgstr "請輸入有效的電子郵件地址。"
+
+#: includes/Assets.php:478
+msgid "Please fix this field."
+msgstr "請修復此字段。"
+
+#: includes/Assets.php:477
+msgid "This field is required"
+msgstr "這是必填欄"
+
+#: includes/Assets.php:629
+msgid "Variation menu order (determines position in the list of variations)"
+msgstr "變化菜單順序（確定變體列表中的位置）"
+
+#: includes/Assets.php:628
+msgid "Enter a value"
+msgstr "輸入一個值"
+
+#: includes/Assets.php:619
+msgid "Remove this attribute?"
+msgstr "刪除此屬性？"
+
+#: includes/Assets.php:618
+msgid "Enter a name for the new attribute term:"
+msgstr "輸入新屬性術語的名稱："
+
+#: includes/Assets.php:617
+msgid "Warning! This product will not have any variations if this option is not checked."
+msgstr "警告！如果未選中此選項，本產品將不會有任何變化。"
+
+#: includes/Assets.php:616
+msgid "Sorry, this attribute option already exists, Try a different one."
+msgstr "對不起，此屬性選項已存在，請嘗試其他選項。"
+
+#: includes/Assets.php:615
+msgid "Add to gallery"
+msgstr "加入畫廊"
+
+#: includes/Assets.php:612
+msgid "Add Images to Product Gallery"
+msgstr "將圖像添加到產品庫"
+
+#: includes/Assets.php:611
+msgid "Choose a file"
+msgstr "選擇一個文件"
+
+#: includes/Assets.php:610
+msgid "Upload featured image"
+msgstr "上傳精選圖片"
+
+#: includes/Assets.php:402
+msgid "Something went wrong. Please try again."
+msgstr "出了些問題。請再試一次。"
+
+#: includes/Assets.php:401 assets/js/vue-admin.js:3877
+msgid "Are you sure?"
+msgstr "你確定？"
+
+#: assets/js/vue-admin.js:3774
+msgid "Approve"
+msgstr "批准"
+
+#: assets/js/vue-admin.js:3783 assets/js/vue-admin.js:3794
+#: assets/js/vue-admin.js:3799
+msgid "Download PayPal mass payment file"
+msgstr "下載PayPal大量付款文件"
+
+#: includes/Order/functions.php:770
+msgid "Order Date"
+msgstr "訂購日期"
+
+#: includes/Order/functions.php:769 includes/REST/OrderController.php:99
+msgid "Order Status"
+msgstr "訂單狀態"
+
+#: includes/Order/functions.php:767
+msgid "Payment method"
+msgstr "付款方法"
+
+#: includes/Order/functions.php:766
+msgid "Shipping Cost"
+msgstr "運輸費"
+
+#: includes/Order/functions.php:765
+msgid "Shipping method"
+msgstr "郵寄方式"
+
+#: includes/Order/functions.php:763
+msgid "Order No"
+msgstr "訂單號"
+
+#: includes/Order/functions.php:793
+msgid "Customer IP"
+msgstr "客戶IP"
+
+#: includes/Assets.php:641
+msgid "Save changes before changing page?"
+msgstr "在更改頁面之前保存更改？"
+
+#: includes/Assets.php:640
+msgid "Sale end date (YYYY-MM-DD format or leave blank)"
+msgstr "銷售結束日期（YYYY-MM-DD格式或留空）"
+
+#: includes/Assets.php:639
+msgid "Sale start date (YYYY-MM-DD format or leave blank)"
+msgstr "出貨開始日期（YYYY-MM-DD格式或留空）"
+
+#: includes/Assets.php:638
+msgid "Are you sure you want to remove this variation?"
+msgstr "您確定要刪除此變體嗎？"
+
+#: includes/Assets.php:637
+msgid "No variations added"
+msgstr "沒有添加變體"
+
+#: includes/Assets.php:636
+msgid "variations added"
+msgstr "增加了變化"
+
+#: includes/Assets.php:635
+msgid "variation added"
+msgstr "變化增加"
+
+#: includes/Assets.php:634
+msgid "Set variation image"
+msgstr "設置變體圖像"
+
+#: includes/Assets.php:633
+msgid "Choose an image"
+msgstr "選擇一個圖像"
+
+#: includes/Assets.php:632
+msgid "Last warning, are you sure?"
+msgstr "最後的警告，你確定嗎？"
+
+#: includes/Assets.php:631
+msgid "Are you sure you want to delete all variations? This cannot be undone."
+msgstr "您確定要刪除所有變體嗎？這不能被撤消。"
+
+#: includes/Admin/Menu.php:51 includes/Admin/AdminBar.php:61
+msgid "PRO Features"
+msgstr "PRO功能"
+
+#: includes/Assets.php:648
+msgid "Select and Crop"
+msgstr "選擇和裁剪"
+
+#: includes/Admin/Settings.php:286
+msgid "Recommended Logo size ( 270px X 90px ). If no logo is uploaded, site title is shown by default."
+msgstr "推薦標誌尺寸（270px X 90px）。如果沒有上傳標誌，則默認顯示網站標題。"
+
+#: includes/Admin/Settings.php:362
+msgid "Allow newly registered vendors to add products"
+msgstr "允許新註冊的供應商上傳產品"
+
+#: includes/Admin/Settings.php:361
+msgid "New Vendor Product Upload"
+msgstr "新廠商產品上傳"
+
+#: includes/Admin/Settings.php:521
+msgid "Enable showing Store Sidebar From Your Theme."
+msgstr "啟用從您的主題顯示商店側邊欄。"
+
+#: includes/Admin/Settings.php:520
+msgid "Enable Store Sidebar From Theme"
+msgstr "從主題啟用商店側欄"
+
+#: includes/Admin/Settings.php:494
+msgid "Show Contact Form on Store Page"
+msgstr "在商店頁面上顯示聯繫表"
+
+#: includes/Admin/Settings.php:477
+#: templates/admin-setup-wizard/step-store.php:56
+msgid "Google Map API Key"
+msgstr "Google Map API密鑰"
+
+#: includes/Admin/Settings.php:453
+msgid "Show Map on Store Page"
+msgstr "在商店頁面上顯示地圖"
+
+#: includes/Admin/Settings.php:340 includes/Admin/Settings.php:348
+#: includes/Admin/SetupWizard.php:337
+msgid "Admin"
+msgstr "管理員"
+
+#: templates/admin-setup-wizard/step-selling.php:13
+msgid "Make selling status enable for new registred vendor"
+msgstr "為新的註冊商提供銷售狀態"
+
+#: templates/admin-setup-wizard/step-selling.php:5
+msgid "New Vendor Enable Selling"
+msgstr "新供應商啟用銷售"
+
+#: templates/admin-setup-wizard/step-selling.php:1
+msgid "Selling Setup"
+msgstr "銷售設置"
+
+#: templates/admin-setup-wizard/step-store.php:10
+msgid "Define vendor store URL"
+msgstr "定義供應商商店URL"
+
+#: includes/functions.php:811
+msgid "Scheduled Product"
+msgstr "計劃產品"
+
+#: includes/functions.php:810
+msgid "Grouped Product"
+msgstr "分組產品"
+
+#: includes/functions.php:809
+msgid "Variable Product"
+msgstr "可變產品"
+
+#: includes/functions.php:808
+msgid "Simple Product"
+msgstr "簡單的產品"
+
+#: includes/Admin/functions.php:238 includes/Admin/functions.php:512
+msgid "Commision: "
+msgstr "委託： "
+
+#: includes/Admin/functions.php:231 includes/Admin/functions.php:505
+#: includes/REST/AdminReportController.php:149
+msgid "Commision"
+msgstr "委託"
+
+#: includes/Admin/functions.php:228 includes/Admin/functions.php:502
+msgid "sales"
+msgstr "銷售"
+
+#: includes/functions.php:2227
+msgid "All dates"
+msgstr "所有日期"
+
+#: includes/functions.php:2124
+msgid "6-8 weeks"
+msgstr "6-8週"
+
+#: includes/functions.php:2123
+msgid "4-6 weeks"
+msgstr "4-6週"
+
+#: includes/functions.php:2122
+msgid "3-4 weeks"
+msgstr "3-4週"
+
+#: includes/functions.php:2121
+msgid "2-3 weeks"
+msgstr "2-3週"
+
+#: includes/functions.php:2120
+msgid "1-2 weeks"
+msgstr "1-2週"
+
+#: includes/Widgets/TopratedProducts.php:14
+msgid "A Widget for displaying To rated products for dokan"
+msgstr "用於顯示的小部件為Dokan評級產品"
+
+#: includes/Widgets/TopratedProducts.php:13
+msgid "Dokan: Top Rated Product Widget"
+msgstr "Dokan：最高評分的產品小工具"
+
+#: includes/Widgets/StoreCategoryMenu.php:16
+msgid "Dokan: Store Category Menu"
+msgstr "Dokan：商店分類菜單"
+
+#: includes/Widgets/StoreCategoryMenu.php:15
+msgid "Dokan Seller Store Menu"
+msgstr "Dokan賣家店菜單"
+
+#: includes/Widgets/StoreLocation.php:23
+msgid "Dokan: Store Location"
+msgstr "Dokan：商店位置"
+
+#: includes/Widgets/StoreLocation.php:22
+msgid "Dokan Vendor Store Location"
+msgstr "Dokan Vendor Store位置"
+
+#: includes/Widgets/StoreContactForm.php:23
+msgid "Dokan: Store Contact Form"
+msgstr "Dokan：商店聯絡表"
+
+#: includes/Widgets/StoreContactForm.php:22
+msgid "Dokan Vendor Contact Form"
+msgstr "Dokan供應商聯繫表"
+
+#: includes/Widgets/ProductCategoryMenu.php:86
+msgid "Product Category"
+msgstr "產品分類"
+
+#: includes/Widgets/ProductCategoryMenu.php:16
+msgid "Dokan product category menu"
+msgstr "Dokan產品類別菜單"
+
+#: includes/Product/functions.php:191
+msgid "Download limit"
+msgstr "下載限制"
+
+#: includes/Product/functions.php:190
+msgid "Downloadable products"
+msgstr "可下載的產品"
+
+#: includes/Product/functions.php:188
+msgid "Weight"
+msgstr "重量"
+
+#: includes/Product/functions.php:187
+msgid "Height"
+msgstr "高度"
+
+#: includes/Product/functions.php:186
+msgid "Width"
+msgstr "寬度"
+
+#: includes/Admin/SetupWizard.php:311
+#: templates/admin-setup-wizard/step-no-wc-introduction.php:2
+msgid "Welcome to the world of Dokan!"
+msgstr "歡迎來到Dokan的世界！"
+
+#: includes/Admin/SetupWizard.php:264 includes/Admin/SetupWizardNoWC.php:96
+msgid "Return to the WordPress Dashboard"
+msgstr "返回到WordPress儀表板"
+
+#: includes/Admin/SetupWizard.php:244
+msgid "Dokan &rsaquo; Setup Wizard"
+msgstr "Dokan＆rsaquo 安裝嚮導"
+
+#: includes/Admin/SetupWizard.php:85
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "搜索＆hellip;"
+
+#: includes/Admin/SetupWizard.php:84
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "加載更多結果＆hellip;"
+
+#: includes/Admin/SetupWizard.php:83
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "您只能選擇％qty％項"
+
+#: includes/Vendor/Vendor.php:707
+msgid "No ratings found yet!"
+msgstr "尚未發現評分！"
+
+#: includes/template-tags.php:136
+msgid "Product succesfully deleted"
+msgstr "產品成功刪除"
+
+#: includes/reports.php:349
+msgid "Sales total"
+msgstr "銷售總額"
+
+#: includes/Emails/Manager.php:514
+msgid "[%s] Your product has been approved!"
+msgstr "[%s]您的產品已被批准！"
+
+#: includes/Emails/Manager.php:474
+msgid "[%s] New Product Added"
+msgstr "[%s]新增產品"
+
+#: includes/Emails/Manager.php:421
+msgid "[%s] New Vendor Registered"
+msgstr "[%s]新供應商註冊"
+
+#: includes/Emails/Manager.php:382
+msgid "[%s] Your Withdraw Request has been cancelled"
+msgstr "[%s]您的提款請求已被取消"
+
+#: includes/Emails/Manager.php:359
+msgid "[%s] Your Withdraw Request has been approved"
+msgstr "[%s]您的提款請求已獲得批准"
+
+#: includes/Emails/Manager.php:337
+msgid "[%s] New Withdraw Request"
+msgstr "[%s]新提款申請"
+
+#: includes/Emails/Manager.php:280
+msgid "[%s] New Refund Request"
+msgstr "[%s]新的退款請求"
+
+#: includes/Emails/Manager.php:246
+msgid "[%s] Refund Request %s"
+msgstr "[%s] 退款要求 %s"
+
+#: includes/Emails/Manager.php:197
+msgid "\"%s\" sent you a message from your \"%s\" store"
+msgstr "“%s“你給你發了一封信，你的”%s“商店"
+
+#: includes/template-tags.php:282
+msgid "Refunded (%d)"
+msgstr "退款（%d）"
+
+#: includes/template-tags.php:268
+msgid "Cancelled (%d)"
+msgstr "取消 （%d）"
+
+#: includes/template-tags.php:254
+msgid "Pending (%d)"
+msgstr "待定（%d）"
+
+#: includes/template-tags.php:240
+msgid "On-hold (%d)"
+msgstr "等候接聽 （%d）"
+
+#: includes/template-tags.php:226
+msgid "Processing (%d)"
+msgstr "處理（%d）"
+
+#: includes/template-tags.php:212
+msgid "Completed (%d)"
+msgstr "已完成%d）"
+
+#: includes/functions.php:2334
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/Withdraw/functions.php:12
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/wc-functions.php:764
+msgid "Your {site_title} order receipt from {order_date}"
+msgstr "Your {site_title} order receipt from {order_date}"
+
+#: includes/Vendor/Vendor.php:710
+msgid "Rated %s out of %d"
+msgstr "Rated %s out of %d"
+
+#: includes/Vendor/Vendor.php:709
+msgid "%s rating from %d review"
+msgid_plural "%s rating from %d reviews"
+msgstr[0] "%s rating from %d reviews"
+
+#: includes/wc-legacy-functions.php:61
+msgctxt "Order date parsed by strftime"
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr "%b %d, %Y @ %I:%M %p"
+
+#: includes/wc-legacy-functions.php:61
+msgid "Order &ndash; %s"
+msgstr "Order &ndash; %s"
+
+#: includes/template-tags.php:48
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: includes/template-tags.php:45
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: includes/Product/functions.php:284
+msgctxt "number of pages"
+msgid "of"
+msgstr "of"
+
+#: includes/Product/functions.php:267
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s items"
+
+#: includes/Order/Hooks.php:154
+msgid "Mark parent order completed when all child orders are completed."
+msgstr "Mark parent order completed when all child orders are completed."
+
+#. translators: 1: month name, 2: 4-digit year
+#: includes/functions.php:2242
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: includes/functions.php:1271
+msgid "SWIFT: %s"
+msgstr "SWIFT: %s"
+
+#: includes/functions.php:1259
+msgid "Address: %s"
+msgstr "Address: %s"
+
+#: includes/functions.php:1255
+msgid "Bank Name: %s"
+msgstr "Bank Name: %s"
+
+#: includes/functions.php:1251
+msgid "Account Number: %s"
+msgstr "Account Number: %s"
+
+#: includes/functions.php:1247 assets/js/vue-admin.js:3895
+msgid "Account Name: %s"
+msgstr "Account Name: %s"
+
+#: includes/Admin/SetupWizard.php:313
+msgid "No time right now? If you don’t want to go through the wizard, you can skip and return to the WordPress dashboard. Come back anytime if you change your mind!"
+msgstr "現在沒有時間嗎？如果您不想使用快速嚮導，可以跳過並返回商店！"
+
+#: includes/Admin/SetupWizard.php:312
+msgid "Thank you for choosing Dokan to power your online marketplace! This quick setup wizard will help you configure the basic settings. <strong>It’s completely optional and shouldn’t take longer than three minutes.</strong>"
+msgstr "感謝您選擇本網站為強化您的在線商店！此快速設置嚮導將幫助您配置基本設置。 <strong>它是完全可自行選擇的，並且配置不會超過兩分鐘。</strong>"
+
+#: includes/Admin/SetupWizard.php:82
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "You can only select 1 item"
+
+#: includes/Admin/SetupWizard.php:81
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "Please delete %qty% characters"
+
+#: includes/Admin/SetupWizard.php:80
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "Please delete 1 character"
+
+#: includes/Admin/SetupWizard.php:79
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "Please enter %qty% or more characters"
+
+#: includes/Admin/SetupWizard.php:78
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Please enter 1 or more characters"
+
+#: includes/Admin/SetupWizard.php:77
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "Loading failed"
+
+#: includes/Admin/SetupWizard.php:76
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "No matches found"
+
+#: includes/Admin/SetupWizard.php:75
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr "%qty% results are available, use up and down arrow keys to navigate."
+
+#: includes/Admin/SetupWizard.php:74
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr "One result is available, press enter to select it."
+
+#: includes/Admin/Menu.php:36
+msgid "Withdraw %s"
+msgstr "Withdraw %s"
+
+#: includes/Core.php:143
+msgid "Page %s"
+msgstr "Page %s"
+
+#: includes/Assets.php:492
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Please enter a value greater than or equal to {0}."
+
+#: includes/Assets.php:491
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Please enter a value less than or equal to {0}."
+
+#: includes/Assets.php:643
+msgid "%qty% variations"
+msgstr "%qty% variations"
+
+#: includes/Assets.php:642
+msgid "%qty% variation"
+msgstr "%qty% variation"
+
+#: includes/Assets.php:630
+msgid "Enter a value (fixed or %)"
+msgstr "Enter a value (fixed or %)"
+
+#: includes/Assets.php:627
+msgid "Are you sure you want to link all variations? This will create a new variation for each and every possible combination of variation attributes (max %d per run)."
+msgstr "Are you sure you want to link all variations? This will create a new variation for each and every possible combination of variation attributes (max %d per run)."
+
+#: includes/Shortcodes/Dashboard.php:25
+msgid "Please install <a href=\"%s\"><strong>WooCommerce</strong></a> plugin first"
+msgstr "Please install <a href=\"%s\"><strong>WooCommerce</strong></a> plugin first"
+
+#: includes/Assets.php:649
+msgid "Choose Image"
+msgstr "選取圖片"
+
+#: includes/Assets.php:613
+msgid "Set featured image"
+msgstr "設定精選圖片"
+
+#: templates/store-lists-loop.php:43
+msgid "Rated %s out of 5"
+msgstr "評比%s(滿分五顆)"
+
+#: templates/seller-search-form.php:8
+msgid "Search Vendor &hellip;"
+msgstr "搜索商店&hellip;"
+
+#: templates/store-lists-loop.php:33
+msgid "Featured"
+msgstr "特色賣家"
+
+#: templates/products/new-product.php:279
+msgid "Add your product description"
+msgstr "增加商品描述"
+
+#: templates/products/tmpl-add-product-popup.php:38
+#: templates/products/new-product-single.php:398
+#: templates/products/new-product.php:138
+msgid "Add gallery image"
+msgstr "增加畫廊圖片"
+
+#: templates/withdraw/status-listing.php:15
+msgid "Approved Requests"
+msgstr "批准的請求"
+
+#: includes/REST/StoreController.php:132
+#: templates/widgets/store-contact-form.php:15
+msgid "Your Name"
+msgstr "你的名稱"
+
+#: templates/withdraw/status-listing.php:12
+msgid "Withdraw Request"
+msgstr "提款請求"
+
+#: templates/withdraw/request-form.php:42
+msgid "Submit Request"
+msgstr "確認請求"
+
+#: templates/widgets/store-contact-form.php:18
+msgid "you@example.com"
+msgstr "you@example.com"
+
+#: templates/widgets/widget-content-product.php:44
+msgid "No products found"
+msgstr "查無此商品"
+
+#: templates/products/products-listing.php:195
+msgid "Next &raquo;"
+msgstr "下一個＆raquo;"
+
+#: templates/products/products-listing.php:194
+msgid "&laquo; Previous"
+msgstr "＆laquo; 以前"
+
+#: templates/withdraw/request-form.php:27
+msgid "Payment Method"
+msgstr "付款方法"
+
+#: templates/withdraw/request-form.php:14
+msgid "Withdraw Amount"
+msgstr "取款數量"
+
+#: templates/widgets/store-contact-form.php:30
+msgid "Send Message"
+msgstr "發信息"
+
+#: templates/widgets/store-contact-form.php:21
+msgid "Type your messsage..."
+msgstr "輸入你的留言"
+
+#: templates/sub-orders.php:16 templates/emails/vendor-new-order.php:84
+msgid "Note:"
+msgstr "注意："
+
+#: templates/sub-orders.php:12
+msgid "Sub Orders"
+msgstr "子訂單"
+
+#: templates/store.php:52
+msgid "No products were found of this vendor!"
+msgstr "沒有找到這個供應商的產品！"
+
+#: templates/store-toc.php:30
+msgid "Terms And Conditions"
+msgstr "條款和條件"
+
+#: templates/seller-search-form.php:8
+msgid "Search seller &hellip;"
+msgstr "搜索賣家＆hellip;"
+
+#: templates/settings/store-form.php:118
+msgid "store name"
+msgstr "商店名稱"
+
+#: languages/dokan-lite.php:67 includes/Privacy.php:173
+#: templates/settings/store-form.php:115 assets/js/vue-bootstrap.js:2068
+#: assets/js/vue-bootstrap.js:2092 assets/js/vue-admin.js:2073
+#: assets/js/vue-admin.js:2097
+msgid "Store Name"
+msgstr "商店名稱"
+
+#: templates/settings/store-form.php:109
+msgid "Upload Photo"
+msgstr "上傳圖片"
+
+#: templates/settings/store-form.php:99
+msgid "Profile Picture"
+msgstr "檔案圖片"
+
+#: templates/settings/payment.php:45 templates/settings/store-form.php:301
+msgid "Update Settings"
+msgstr "更新設置"
+
+#: templates/settings/address-form.php:118
+msgid "State "
+msgstr "州 "
+
+#: templates/settings/address-form.php:91
+msgid "Country "
+msgstr "國家 "
+
+#: templates/settings/address-form.php:78
+msgid "Postcode / Zip"
+msgstr "郵政編碼/郵編"
+
+#: templates/settings/address-form.php:70
+msgid "Post/ZIP Code"
+msgstr "郵政/郵編"
+
+#: templates/settings/address-form.php:65
+msgid "Town / City"
+msgstr "鎮/市"
+
+#: templates/settings/address-form.php:49
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr "公寓，套房，單位等（可選）"
+
+#: templates/settings/address-form.php:36
+msgid "Street address"
+msgstr "街道地址"
+
+#: templates/settings/address-form.php:28
+msgid "Street "
+msgstr "街 "
+
+#: languages/dokan-lite.php:13 includes/Privacy.php:176
+#: templates/admin-setup-wizard/step-store-wc-fields.php:33
+#: templates/settings/address-form.php:23
+#: templates/maps/mapbox-with-search.php:5 assets/js/vue-bootstrap.js:2463
+#: assets/js/vue-bootstrap.js:6003 assets/js/vue-admin.js:2468
+#: assets/js/vue-admin.js:6174
+msgid "Address"
+msgstr "地址"
+
+#. Description of the plugin
+msgid "An e-commerce marketplace plugin for WordPress. Powered by WooCommerce and weDevs."
+msgstr "An e-commerce marketplace plugin for WordPress. Powered by WooCommerce and weDevs."
+
+#: includes/Dashboard/Templates/Products.php:202
+#: includes/Product/functions.php:434
+msgid "Delete Permanently"
+msgstr "永久刪除"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/dokan-lite/"
+msgstr "https://wordpress.org/plugins/dokan-lite/"
+
+#: templates/products/products-listing-row.php:121
+#: templates/products/products-listing.php:98
+msgid "Views"
+msgstr "意見"
+
+#: templates/products/products-listing-row.php:97
+#: templates/products/products-listing.php:97
+msgid "Type"
+msgstr "類型"
+
+#: templates/products/products-listing-row.php:33
+#: templates/products/products-listing.php:87
+msgid "Image"
+msgstr "圖片"
+
+#: templates/products/products-listing.php:46
+msgid "Add new product"
+msgstr "添加新產品"
+
+#: templates/products/new-product.php:290
+msgid "Create Product"
+msgstr "創建產品"
+
+#: templates/products/new-product.php:289
+msgid "Create & Add New"
+msgstr "創建並添加新的"
+
+#: templates/products/new-product.php:195
+msgid "Short description of the product..."
+msgstr "產品的簡短描述..."
+
+#: templates/products/new-product.php:102
+msgid "Upload Product Image"
+msgstr "上傳產品圖片"
+
+#: templates/products/tmpl-add-product-popup.php:8
+#: templates/products/new-product.php:49
+msgid "Add New Product"
+msgstr "添加新產品"
+
+#: templates/products/new-product-single.php:433
+#: templates/products/new-product-single.php:434
+msgid "Save Product"
+msgstr "保存產品"
+
+#: templates/products/others.php:49
+msgid "Enable product reviews"
+msgstr "啟用產品評論"
+
+#: templates/store-lists-loop.php:129
+msgid "No vendor found!"
+msgstr "沒有找到供應商！"
+
+#: templates/settings/store-form.php:209
+msgid "TOC Details"
+msgstr "TOC詳情"
+
+#: templates/settings/store-form.php:203
+msgid "Show terms and conditions in store page"
+msgstr "在商店頁面顯示條款和條件"
+
+#: templates/products/inventory.php:54
+msgid "Allow but notify customer"
+msgstr "允許但通知客戶"
+
+#: templates/maps/mapbox-with-search.php:6
+#: templates/maps/google-maps-with-search.php:6
+msgid "Find Address"
+msgstr "查找地址"
+
+#: templates/products/inventory.php:53
+msgid "Do not allow"
+msgstr "不允許"
+
+#: templates/maps/google-maps-with-search.php:5
+msgid "Type an address to find"
+msgstr "鍵入要查找的地址"
+
+#: templates/products/inventory.php:50
+msgid "Allow Backorders"
+msgstr "允許退貨"
+
+#: templates/settings/store-form.php:180
+msgid "Map"
+msgstr "地圖"
+
+#: templates/settings/store-form.php:172
+msgid "Enable tab on product single page view"
+msgstr "在產品單頁視圖上啟用選項卡"
+
+#: templates/settings/store-form.php:150
+msgid "+123456.."
+msgstr "+123456 .."
+
+#: templates/settings/store-form.php:148
+msgid "Phone No"
+msgstr "電話號碼"
+
+#: templates/products/inventory.php:32
+msgid "Enable product stock management"
+msgstr "啟用產品庫存管理"
+
+#: templates/products/inventory.php:23
+msgid "Out of Stock"
+msgstr "缺貨"
+
+#: templates/products/inventory.php:22
+msgid "In Stock"
+msgstr "有現貨"
+
+#: templates/settings/store-form.php:86
+msgid "Upload a banner for your store. Banner size is (%sx%s) pixels."
+msgstr "上傳您的商店的橫幅。橫幅尺寸為（%sX%s） 像素。"
+
+#: templates/products/inventory.php:19
+msgid "Stock Status"
+msgstr "庫存狀態"
+
+#: templates/products/tmpl-add-product-popup.php:175
+msgid "Create & add new"
+msgstr "創建並添加新的"
+
+#: templates/products/tmpl-add-product-popup.php:174
+msgid "Create product"
+msgstr "創建產品"
+
+#: templates/products/inventory.php:14
+msgid "(Stock Keeping Unit)"
+msgstr "（庫存單位）"
+
+#: templates/products/inventory.php:4
+msgid "Manage inventory for this product."
+msgstr "管理此產品的庫存。"
+
+#: templates/products/new-product-single.php:417
+#: templates/products/new-product.php:279
+msgid "Description"
+msgstr "描述"
+
+#: templates/products/others.php:44
+msgid "Customer will get this info in their order email"
+msgstr "客戶將在其訂單電子郵件中獲取此信息"
+
+#: templates/products/others.php:43
+msgid "Purchase Note"
+msgstr "購買說明"
+
+#: templates/products/others.php:32
+msgid "Visibility"
+msgstr "能見度"
+
+#: templates/products/new-product-single.php:107
+msgid "Edit Product"
+msgstr "編輯產品"
+
+#: templates/products/others.php:13
+msgid "Product Status"
+msgstr "產品狀態"
+
+#: templates/products/new-product-single.php:35
+msgid "Access Denied"
+msgstr "拒絕訪問"
+
+#: templates/products/others.php:4
+msgid "Set your extra product options"
+msgstr "設置您的額外產品選項"
+
+#: templates/products/new-product-single.php:11
+msgid "Access Denied, No product found"
+msgstr "訪問被拒絕，找不到產品"
+
+#: templates/products/others.php:3
+msgid "Other Options"
+msgstr "其他選項"
+
+#: templates/products/downloadable.php:61
+msgid "Number of days"
+msgstr "天數"
+
+#: templates/products/listing-filter.php:61
+msgid "Search Products"
+msgstr "搜索產品"
+
+#: templates/products/downloadable.php:60
+msgid "Download Expiry"
+msgstr "下載到期"
+
+#: includes/Product/functions.php:312 templates/products/listing-filter.php:56
+msgid "Search"
+msgstr "搜索"
+
+#: templates/products/downloadable.php:56
+msgid "e.g. 4"
+msgstr "例如4"
+
+#: templates/products/tmpl-add-product-popup.php:102
+#: templates/products/new-product-single.php:266
+#: templates/products/new-product.php:204
+#: templates/products/listing-filter.php:26
+msgid "- Select a category -"
+msgstr "- 選擇一個類別 -"
+
+#: templates/products/downloadable.php:55
+msgid "Download Limit"
+msgstr "下載限制"
+
+#: templates/products/downloadable.php:36
+msgid "File URL"
+msgstr "文件URL"
+
+#: templates/products/downloadable.php:35
+#: templates/products/products-listing-row.php:40
+#: templates/products/products-listing.php:88
+msgid "Name"
+msgstr "名稱"
+
+#: templates/orders/order-tax-html.php:20
+msgid "Shipping Tax:"
+msgstr "運費："
+
+#: templates/products/downloadable.php:29
+msgid "Add File"
+msgstr "添加文件"
+
+#: templates/orders/order-tax-html.php:16
+msgid "Sales Tax:"
+msgstr "銷售稅："
+
+#: templates/orders/order-tax-html.php:8
+msgid "N/A"
+msgstr "不適用"
+
+#: templates/orders/order-tax-html.php:6
+msgid "Tax Rate:"
+msgstr "稅率："
+
+#: templates/orders/order-fee-html.php:10
+msgid "Fee Name"
+msgstr "費用名稱"
+
+#: templates/orders/order-download-permission-html.php:40
+msgid "Never"
+msgstr "決不"
+
+#: templates/sub-orders.php:17
+msgid ""
+"This order has products from multiple vendors. So we divided this order into multiple vendor orders.\n"
+"    Each order will be handled by their respective vendor independently."
+msgstr ""
+"該訂單有多個供應商的產品。所以我們把這個訂單分成多個供應商訂單。\n"
+" \n"
+"    每個預定將通過它們各自的供應商獨立地進行處理。"
+
+#: templates/products/tmpl-add-product-popup.php:167
+msgid "Enter some short description about this product..."
+msgstr "輸入有關此產品的簡短說明..."
+
+#: templates/products/products-listing.php:171
+msgid "No product found"
+msgstr "找不到產品"
+
+#: templates/products/products-listing-row.php:156
+msgid "Last Modified"
+msgstr "上一次更改"
+
+#: includes/functions.php:765 templates/products/products-listing-row.php:153
+msgid "Scheduled"
+msgstr "預定"
+
+#: templates/products/products-listing-row.php:148
+msgid "Published"
+msgstr "發布"
+
+#: templates/products/products-listing-row.php:114
+msgid "Variable"
+msgstr "變量"
+
+#: templates/products/products-listing-row.php:110
+msgid "Simple"
+msgstr "簡單"
+
+#: templates/products/products-listing-row.php:102
+msgid "External/Affiliate"
+msgstr "外部/會員"
+
+#: templates/products/products-listing-row.php:100
+msgid "Grouped"
+msgstr "分組"
+
+#: templates/products/downloadable.php:3
+msgid "Downloadable Options"
+msgstr "可下載的選項"
+
+#: templates/products/tmpl-add-product-popup.php:66
+#: templates/products/new-product-single.php:215
+#: templates/products/new-product.php:165
+msgid "Discounted Price"
+msgstr "打折後價格"
+
+#: templates/products/tmpl-add-product-popup.php:57
+#: templates/products/products-listing-row.php:77
+#: templates/products/products-listing.php:95
+#: templates/products/new-product-single.php:195
+#: templates/products/new-product.php:156
+#: templates/emails/vendor-new-order.php:48
+msgid "Price"
+msgstr "價錢"
+
+#: templates/products/download-virtual.php:9
+msgid "Virtual products are intangible and aren't shipped."
+msgstr "虛擬產品是無形的，沒有發貨。"
+
+#: templates/products/products-listing-row.php:106
+#: templates/products/download-virtual.php:9
+msgid "Virtual"
+msgstr "虛擬"
+
+#: templates/products/download-virtual.php:4
+msgid "Downloadable products give access to a file upon purchase."
+msgstr "可下載的產品在購買後可以訪問文件。"
+
+#: templates/products/products-listing-row.php:108
+#: templates/products/download-virtual.php:4
+msgid "Downloadable"
+msgstr "可下載"
+
+#: templates/products/new-product-single.php:179
+msgid "Product Type"
+msgstr "產品類別"
+
+#: templates/products/new-product-single.php:167
+msgid "Please enter product title!"
+msgstr "請輸入產品標題！"
+
+#: templates/products/tmpl-add-product-popup.php:51
+#: templates/products/new-product-single.php:165
+#: templates/products/new-product.php:150
+msgid "Product name.."
+msgstr "產品名稱.."
+
+#: templates/products/new-product-single.php:164
+msgid "Title"
+msgstr "標題"
+
+#: templates/products/new-product-single.php:141
+msgid "View Product &rarr;"
+msgstr "查看產品＆rarr;"
+
+#: templates/products/new-product-single.php:138
+msgid "The product has been saved successfully."
+msgstr "產品已成功保存。"
+
+#: templates/products/new-product-single.php:138
+#: templates/products/new-product.php:70 assets/js/vue-admin.js:6035
+msgid "Success!"
+msgstr "成功！"
+
+#: templates/products/new-product.php:71
+msgid "You have successfully created <a href=\"%s\"><strong>%s</strong></a> product"
+msgstr "您成功的建立了<a href=\"%s\"><strong>%s</strong></a>產品"
+
+#: templates/products/products-listing-row.php:151
+msgid "Missed schedule"
+msgstr "錯過的時間表"
+
+#: templates/products/tmpl-add-product-popup.php:88
+#: templates/products/new-product-single.php:243
+#: templates/products/new-product.php:187
+msgid "To"
+msgstr "至"
+
+#: templates/products/tmpl-add-product-popup.php:81
+#: templates/products/new-product-single.php:236
+#: templates/products/new-product.php:180
+msgid "From"
+msgstr "從"
+
+#: templates/products/new-product-single.php:313
+msgid "Tags"
+msgstr "Tags"
+
+#: templates/products/tmpl-add-product-popup.php:160
+#: templates/products/new-product-single.php:333
+#: templates/products/new-product.php:270
+msgid "Select product tags"
+msgstr "選擇產品標籤"
+
+#: templates/products/new-product-single.php:392
+#: templates/products/new-product.php:131
+msgid "Delete image"
+msgstr "刪除圖片"
+
+#: templates/products/inventory.php:39 templates/products/inventory.php:45
+msgid "1"
+msgstr "1"
+
+#: templates/products/inventory.php:14
+#: templates/products/products-listing-row.php:59
+#: templates/products/products-listing.php:93
+msgid "SKU"
+msgstr "庫存"
+
+#: templates/products/downloadable.php:4
+msgid "Configure your downloadable product settings"
+msgstr "配置您的可下載的產品設置"
+
+#: templates/products/inventory.php:65
+msgid "Allow only one quantity of this product to be bought in a single order"
+msgstr "只允許一個數量的本產品以一個訂單購買"
+
+#: templates/products/tmpl-add-product-popup.php:23
+#: templates/products/new-product-single.php:360
+msgid "Upload a product cover image"
+msgstr "上傳產品封面圖片"
+
+#: templates/products/new-product-single.php:282
+msgid "Please choose a category!"
+msgstr "請選擇一個分類！"
+
+#: templates/products/tmpl-add-product-popup.php:137
+#: templates/products/new-product-single.php:307
+#: templates/products/new-product.php:243
+msgid "Select product category"
+msgstr "選擇商品類別"
+
+#: templates/products/new-product-single.php:209
+#: templates/products/new-product-single.php:222
+msgid "0.00"
+msgstr "0.00"
+
+#: templates/products/tmpl-add-product-popup.php:67
+#: templates/products/new-product-single.php:216
+#: templates/products/new-product.php:166
+msgid "Schedule"
+msgstr "時間表"
+
+#: templates/products/new-product-single.php:114
+msgid "View Product"
+msgstr "查看產品"
+
+#: includes/Product/functions.php:313
+#: templates/products/new-product-single.php:119
+msgid "Hidden"
+msgstr "隱藏"
+
+#: templates/orders/orders-status-filter.php:14
+msgid "&larr; Orders"
+msgstr "&larr; 訂單"
+
+#: templates/products/new-product-single.php:179
+msgid "Choose Variable if your product has multiple attributes - like sizes, colors, quality etc"
+msgstr "Choose Variable if your product has multiple attributes - like sizes, colors, quality etc"
+
+#: templates/orders/order-download-permission-html.php:39
+msgid "Access Expires"
+msgstr "訪問到期"
+
+#: templates/orders/order-download-permission-html.php:36
+msgid "Unlimited"
+msgstr "無限"
+
+#: templates/orders/details.php:233
+msgid "Phone:"
+msgstr "電話："
+
+#: templates/orders/details.php:229
+msgid "Email:"
+msgstr "電子郵件："
+
+#: templates/orders/details.php:216
+msgid "Customer:"
+msgstr "顧客："
+
+#: templates/orders/details.php:205
+msgid "Order Date:"
+msgstr "訂購日期："
+
+#: languages/dokan-lite.php:132 templates/orders/details.php:197
+#: assets/js/dokan-upgrade.js:167
+msgid "Update"
+msgstr "更新"
+
+#: templates/orders/details.php:175
+msgid "Order Status:"
+msgstr "訂單狀態："
+
+#: templates/orders/details.php:171
+msgid "General Details"
+msgstr "一般細節"
+
+#: templates/orders/details.php:156
+msgid "Downloadable Product Permission"
+msgstr "可下載的產品許可"
+
+#: templates/orders/details.php:97
+msgid "Coupons"
+msgstr "優惠券"
+
+#: templates/orders/details.php:38
+msgid "Totals"
+msgstr "總計"
+
+#: templates/orders/details.php:36
+msgid "Qty"
+msgstr "數量"
+
+#: templates/orders/details.php:32
+msgid "Item"
+msgstr "項目"
+
+#: templates/orders/date-export.php:50
+msgid "Export Filtered"
+msgstr "出口過濾"
+
+#: templates/global/product-tab.php:36
+msgid "Address:"
+msgstr "地址："
+
+#: templates/global/product-tab.php:27
+msgid "Vendor:"
+msgstr "商家："
+
+#: templates/global/product-tab.php:18
+msgid "Store Name:"
+msgstr "店名："
+
+#: templates/global/product-tab.php:11
+msgid "Vendor Information"
+msgstr "供應商信息"
+
+#: templates/global/header-menu.php:59
+msgid "Sign Up"
+msgstr "註冊"
+
+#: templates/global/header-menu.php:58
+msgid "Log in"
+msgstr "登錄"
+
+#: templates/orders/details.php:139 templates/global/header-menu.php:51
+msgid "Shipping Address"
+msgstr "郵寄地址"
+
+#: templates/orders/details.php:124 templates/global/header-menu.php:50
+msgid "Billing Address"
+msgstr "帳單地址"
+
+#: templates/global/header-menu.php:47
+msgid "My Account"
+msgstr "我的帳戶"
+
+#: templates/global/header-menu.php:32
+msgid "Visit your store"
+msgstr "訪問您的商店"
+
+#: templates/dashboard/sales-chart-widget.php:15
+msgid "Sales this Month"
+msgstr "本月銷售"
+
+#: templates/dashboard/products-widget.php:36
+msgid "Offline"
+msgstr "離線"
+
+#: includes/reports.php:366 templates/dashboard/big-counter-widget.php:17
+msgid "Sales"
+msgstr "銷售"
+
+#: languages/dokan-lite.php:8 assets/js/vue-admin.js:5137
+#: assets/js/vue-admin.js:9799
+msgid "Select"
+msgstr "選擇"
+
+#: templates/products/new-product-single.php:254
+#: templates/products/new-product-single.php:287
+msgid "Category"
+msgstr "類別"
+
+#: templates/orders/listing.php:115
+#: templates/products/products-listing-row.php:127
+msgid "Unpublished"
+msgstr "未公開"
+
+#: templates/orders/listing.php:106
+msgid "Guest"
+msgstr "客人"
+
+#: templates/orders/listing.php:58 templates/orders/listing.php:132
+#: templates/products/downloadable.php:37
+msgid "Action"
+msgstr "行動"
+
+#: templates/orders/listing.php:55 templates/orders/listing.php:87
+msgid "Customer"
+msgstr "顧客"
+
+#: templates/orders/downloadable.php:67
+msgid "Grant Access"
+msgstr "授予訪問權限"
+
+#: templates/orders/details.php:352
+msgid "Add Tracking Details"
+msgstr "添加跟踪詳細信息"
+
+#: templates/orders/details.php:342
+msgid "Date Shipped"
+msgstr "發貨日期"
+
+#: templates/orders/details.php:332
+msgid "Shipping Provider Name / URL"
+msgstr "送貨提供商名稱/ URL"
+
+#: templates/orders/details.php:328 templates/orders/details.php:337
+msgid "Tracking Number"
+msgstr "追踪號碼"
+
+#: templates/orders/details.php:321 assets/js/vue-admin.js:7433
+#: assets/js/vue-admin.js:7457 assets/js/vue-admin.js:7502
+msgid "Add Note"
+msgstr "添加註釋"
+
+#: templates/orders/details.php:313
+msgid "Private note"
+msgstr "私人備註"
+
+#: templates/orders/details.php:312
+msgid "Customer note"
+msgstr "客戶備註"
+
+#: templates/my-orders.php:21
+msgid "Recent Orders"
+msgstr "最近的訂單"
+
+#: includes/Dashboard/Templates/Withdraw.php:125
+#: templates/global/seller-warning.php:12
+msgid "Your account is not enabled for selling, please contact the admin"
+msgstr "您的帳戶未啟用銷售，請聯繫管理員"
+
+#: templates/products/new-product-single.php:130
+#: templates/products/new-product.php:61 templates/global/seller-warning.php:11
+msgid "Error!"
+msgstr "錯誤！"
+
+#: templates/global/seller-registration-form.php:67
+msgid "I am a vendor"
+msgstr "我是商店"
+
+#: templates/global/seller-registration-form.php:62
+msgid "I am a customer"
+msgstr "我是顧客"
+
+#: templates/account/vendor-registration.php:52
+#: templates/global/seller-registration-form.php:31
+msgid "Shop URL"
+msgstr "商店網址"
+
+#: templates/account/vendor-registration.php:47
+#: templates/global/seller-registration-form.php:26
+msgid "Shop Name"
+msgstr "店名"
+
+#: templates/global/header-menu.php:29
+msgid "Vendor Dashboard"
+msgstr "商家控制台"
+
+#: templates/dashboard/products-widget.php:31
+msgid "Live"
+msgstr "生活"
+
+#: templates/dashboard/products-widget.php:19
+msgid "+ Add new product"
+msgstr "+添加新產品"
+
+#: templates/dashboard/orders-widget.php:51
+msgid "On hold"
+msgstr "等候接聽"
+
+#: templates/dashboard/edit-account.php:94
+msgid "Save changes"
+msgstr "保存更改"
+
+#: templates/products/inventory.php:55
+msgid "Allow"
+msgstr "允許"
+
+#: includes/woo-views/html-product-download.php:8
+msgid "Choose file"
+msgstr "選擇文件"
+
+#: includes/woo-views/html-product-download.php:7
+msgid "http://"
+msgstr "http：//"
+
+#: templates/products/downloadable.php:36
+msgid "This is the URL or absolute path to the file which customers will get access to."
+msgstr "這是客戶可以訪問的文件的URL或絕對路徑。"
+
+#: includes/woo-views/html-product-download.php:3
+msgid "File Name"
+msgstr "文件名"
+
+#: templates/products/downloadable.php:35
+msgid "This is the name of the download shown to the customer."
+msgstr "這是向客戶顯示的下載的名稱。"
+
+#: includes/template-tags.php:491 templates/global/header-menu.php:48
+msgid "Edit Account"
+msgstr "編輯帳號"
+
+#: includes/template-tags.php:490 templates/settings/header.php:13
+#: templates/store-lists-loop.php:78
+msgid "Visit Store"
+msgstr "訪問商店"
+
+#: includes/template-tags.php:337 includes/REST/AdminReportController.php:146
+#: templates/dashboard/orders-widget.php:15 assets/js/vue-admin.js:5905
+msgid "Orders"
+msgstr "訂單"
+
+#: languages/dokan-lite.php:5 includes/Product/functions.php:272
+#: templates/settings/store-form.php:256 templates/orders/details.php:353
+#: assets/js/vue-bootstrap.js:1670 assets/js/vue-admin.js:1675
+#: assets/js/dokan-upgrade.js:234
+msgid "Close"
+msgstr "關"
+
+#: includes/Product/functions.php:175
+msgid "Set sale prices"
+msgstr "設定銷售價格"
+
+#: includes/Product/functions.php:174
+msgid "Decrease regular prices (fixed amount or percentage)"
+msgstr "降低正常價格（固定金額或百分比）"
+
+#: includes/Product/functions.php:173
+msgid "Increase regular prices (fixed amount or percentage)"
+msgstr "增加正常價格（固定金額或百分比）"
+
+#: includes/Product/functions.php:172
+msgid "Set regular prices"
+msgstr "定價"
+
+#: includes/Product/functions.php:171
+msgid "Pricing"
+msgstr "價錢"
+
+#: includes/Product/functions.php:169
+msgid "Toggle &quot;Virtual&quot;"
+msgstr "切換“虛擬”"
+
+#: includes/Product/functions.php:168
+msgid "Toggle &quot;Downloadable&quot;"
+msgstr "切換“可下載”"
+
+#: includes/Product/functions.php:167
+msgid "Toggle &quot;Enabled&quot;"
+msgstr "切換“啟用”"
+
+#: includes/Product/functions.php:165
+msgid "Delete all variations"
+msgstr "刪除所有變體"
+
+#: includes/Product/functions.php:164
+msgid "Create variations from all attributes"
+msgstr "從所有屬性創建變體"
+
+#: includes/Product/functions.php:163
+msgid "Add variation"
+msgstr "添加變體"
+
+#: includes/Order/functions.php:510
+#: includes/Dashboard/Templates/Dashboard.php:121
+#: templates/dashboard/orders-widget.php:46
+msgid "Refunded"
+msgstr "已退款"
+
+#: includes/template-tags.php:330 includes/functions.php:1206
+#: templates/dashboard/products-widget.php:16 assets/js/vue-admin.js:5902
+msgid "Products"
+msgstr "產品"
+
+#: includes/REST/AdminReportController.php:138
+#: templates/dashboard/orders-widget.php:21
+#: templates/dashboard/products-widget.php:26 templates/my-orders.php:30
+#: templates/orders/order-fee-html.php:17 templates/sub-orders.php:28
+msgid "Total"
+msgstr "所有訂單"
+
+#: templates/orders/details.php:262
+msgid "Order Notes"
+msgstr "訂單說明"
+
+#: includes/functions.php:2958 templates/dashboard/big-counter-widget.php:29
+#: templates/my-orders.php:27 templates/orders/details.php:21
+#: templates/orders/listing.php:51 templates/orders/listing.php:71
+#: templates/sub-orders.php:25
+msgid "Order"
+msgstr "訂購"
+
+#: includes/Order/functions.php:505 includes/Admin/SetupWizard.php:508
+#: includes/Dashboard/Templates/Dashboard.php:111
+#: templates/dashboard/orders-widget.php:36 templates/orders/listing.php:142
+msgid "Processing"
+msgstr "待處理訂單"
+
+#: includes/Order/functions.php:490 includes/Admin/SetupWizard.php:502
+#: includes/Dashboard/Templates/Dashboard.php:101
+#: templates/dashboard/orders-widget.php:26
+msgid "Completed"
+msgstr "已完成訂單"
+
+#: languages/dokan-lite.php:43 includes/functions.php:2956
+#: assets/js/vue-admin.js:7069
+msgid "Overview"
+msgstr "概述"
+
+#: languages/dokan-lite.php:38 assets/js/vue-admin.js:6918
+msgid "Dokan News Updates"
+msgstr "Dokan新聞更新"
+
+#: languages/dokan-lite.php:29 assets/js/vue-admin.js:6641
+msgid "At a Glance"
+msgstr "乍看上去"
+
+#: languages/dokan-lite.php:120 includes/Admin/Menu.php:47
+#: assets/js/vue-admin.js:10391
+msgid "Vendors"
+msgstr "供應商"
+
+#: includes/functions.php:1210 templates/settings/store-form.php:199
+msgid "Terms and Conditions"
+msgstr "條款和條件"
+
+#: includes/woo-views/html-product-download.php:8 includes/Assets.php:614
+msgid "Insert file URL"
+msgstr "插入文件URL"
+
+#: includes/Withdraw/Manager.php:45
+msgid "Withdraw amount must be greater than %d"
+msgstr "提款金額必須大於 %d"
+
+#: includes/Withdraw/Manager.php:41
+msgid "You don't have enough balance for this request"
+msgstr "您的請求沒有足夠的餘額"
+
+#: includes/Withdraw/Manager.php:37
+msgid "Withdraw amount required "
+msgstr "提取金額需要 "
+
+#: includes/Admin/UserProfile.php:95
+msgid "State/County"
+msgstr "州/縣"
+
+#: includes/Admin/UserProfile.php:92
+msgid "Select a country&hellip;"
+msgstr "選擇一個國家＆hellip;"
+
+#: languages/dokan-lite.php:89 includes/Privacy.php:220
+#: includes/Admin/UserProfile.php:88 includes/Vendor/SetupWizard.php:213
+#: templates/admin-setup-wizard/step-store-wc-fields.php:24
+#: assets/js/vue-bootstrap.js:2605 assets/js/vue-admin.js:2610
+msgid "Country"
+msgstr "國家"
+
+#: includes/Admin/UserProfile.php:251
+msgid "Bank name "
+msgstr "銀行名 "
+
+#: includes/Admin/UserProfile.php:242
+msgid "Skrill Email "
+msgstr "Skrill電子郵件 "
+
+#: includes/Admin/UserProfile.php:229
+msgid "Payment Options : "
+msgstr "付款方式 ： "
+
+#: languages/dokan-lite.php:71 includes/Admin/UserProfile.php:211
+#: includes/Admin/Settings.php:536 templates/account/vendor-registration.php:33
+#: templates/global/seller-registration-form.php:38
+#: assets/js/vue-bootstrap.js:2166 assets/js/vue-admin.js:2171
+msgid "Phone Number"
+msgstr "電話號碼"
+
+#: includes/Admin/UserProfile.php:170
+msgid "Zip Code"
+msgstr "郵政編碼"
+
+#: includes/Admin/UserProfile.php:163
+msgid "Town/City"
+msgstr "鎮/市"
+
+#: includes/Privacy.php:217 includes/Admin/UserProfile.php:156
+msgid "Address 2"
+msgstr "地址2"
+
+#: includes/Privacy.php:216 includes/Admin/UserProfile.php:149
+msgid "Address 1"
+msgstr "地址1"
+
+#: includes/Admin/UserProfile.php:134
+msgid "Store name"
+msgstr "商店名稱"
+
+#: includes/Admin/UserProfile.php:118 templates/settings/store-form.php:73
+msgid "Upload banner"
+msgstr "上傳橫幅"
+
+#: includes/Admin/UserProfile.php:106
+msgid "Banner"
+msgstr "旗幟"
+
+#: includes/Admin/UserProfile.php:101
+msgid "Dokan Options"
+msgstr "Dokan選項"
+
+#: includes/Admin/UserProfile.php:96
+msgid "State/County or state code"
+msgstr "州/縣或州代碼"
+
+#: includes/Admin/UserProfile.php:345
+msgid "Mark as featured vendor"
+msgstr "標記為特色供應商"
+
+#: includes/Admin/UserProfile.php:340
+msgid "Featured vendor"
+msgstr "特色供應商"
+
+#: includes/Admin/UserProfile.php:315
+msgid "Bypass pending, publish products directly"
+msgstr "繞過等待，直接發布產品"
+
+#: includes/Admin/UserProfile.php:312
+msgid "Publish product directly"
+msgstr "直接發布產品"
+
+#: includes/Admin/UserProfile.php:307
+msgid "Publishing"
+msgstr "出版"
+
+#: includes/Admin/UserProfile.php:302
+msgid "Enable or disable product adding capability"
+msgstr "啟用或禁用產品添加功能"
+
+#: includes/Admin/UserProfile.php:299
+msgid "Enable Adding Products"
+msgstr "啟用添加產品"
+
+#: includes/Admin/UserProfile.php:294 includes/Admin/SetupWizard.php:152
+msgid "Selling"
+msgstr "出售"
+
+#: includes/Admin/UserProfile.php:287
+msgid "Bank Swift "
+msgstr "銀行Swift "
+
+#: includes/Admin/UserProfile.php:269
+msgid "Bank Address "
+msgstr "銀行地址 "
+
+#: includes/Admin/UserProfile.php:263
+msgid "Account Number "
+msgstr "帳號 "
+
+#: includes/Admin/UserProfile.php:257
+msgid "Account Name "
+msgstr "用戶名 "
+
+#: includes/Ajax.php:469 includes/woo-views/html-product-download.php:14
+#: assets/js/vue-admin.js:3753 assets/js/vue-admin.js:3761
+#: assets/js/vue-admin.js:3780 assets/js/vue-admin.js:3791
+msgid "Delete"
+msgstr "刪除"
+
+#: includes/Dashboard/Templates/Dashboard.php:106
+#: templates/dashboard/orders-widget.php:31 assets/js/vue-admin.js:3764
+#: assets/js/vue-admin.js:3788
+msgid "Pending"
+msgstr "待付款"
+
+#: includes/Product/functions.php:262 templates/my-orders.php:83
+#: templates/orders/details.php:199 templates/store-lists-filter.php:81
+#: templates/products/tmpl-add-product-popup.php:68
+#: templates/products/new-product-single.php:217
+#: templates/products/new-product.php:167
+#: templates/withdraw/pending-request-listing.php:17
+#: templates/withdraw/pending-request-listing.php:35
+#: assets/js/vue-admin.js:3756 assets/js/vue-admin.js:3777
+msgid "Cancel"
+msgstr "已取消"
+
+#: templates/my-orders.php:28 templates/orders/listing.php:56
+#: templates/orders/listing.php:112 templates/sub-orders.php:26
+#: templates/products/products-listing-row.php:124
+#: templates/products/products-listing.php:99
+#: templates/withdraw/pending-request-listing.php:16
+#: templates/withdraw/cancelled-request-listing.php:16
+#: templates/withdraw/approved-request-listing.php:16
+#: assets/js/vue-admin.js:3723
+msgid "Date"
+msgstr "日期"
+
+#: templates/withdraw/cancelled-request-listing.php:17
+#: assets/js/vue-admin.js:3720
+msgid "Note"
+msgstr "注意"
+
+#: templates/withdraw/pending-request-listing.php:15
+#: templates/withdraw/cancelled-request-listing.php:15
+#: templates/withdraw/approved-request-listing.php:15
+#: assets/js/vue-admin.js:3714
+msgid "Method"
+msgstr "方法"
+
+#: templates/withdraw/pending-request-listing.php:14
+#: templates/withdraw/cancelled-request-listing.php:14
+#: templates/withdraw/approved-request-listing.php:14
+#: assets/js/vue-admin.js:3708
+msgid "Amount"
+msgstr "量"
+
+#: includes/Admin/UserProfile.php:348
+msgid "This vendor will be marked as a featured vendor."
+msgstr "該供應商將被標記為特色供應商。"
+
+#: includes/Ajax.php:93
+msgid "Something wrong, please try again later"
+msgstr "有什麼問題，請稍後再試"
+
+#: templates/orders/listing.php:41 templates/store-lists-filter.php:82
+#: templates/products/products-listing.php:78
+msgid "Apply"
+msgstr "應用"
+
+#: includes/Dashboard/Templates/Products.php:201
+#: templates/orders/listing.php:11
+msgid "Bulk Actions"
+msgstr "批量操作"
+
+#: templates/orders/details.php:304
+msgid "Add note"
+msgstr "添加備註"
+
+#: includes/Ajax.php:601
+msgid "Image could not be processed. Please go back and try again."
+msgstr "圖像無法處理。請回去再試一次。"
+
+#: includes/Ajax.php:514
+msgid "Error: Nonce verification failed"
+msgstr "錯誤：隨機驗證失敗"
+
+#: includes/Ajax.php:402 templates/orders/details.php:288
+msgid "Delete note"
+msgstr "刪除筆記"
+
+#: includes/Ajax.php:343 includes/REST/StoreController.php:759
+msgid "Email sent successfully!"
+msgstr "電子郵件發送成功！"
+
+#: includes/Ajax.php:337 includes/template-tags.php:140
+msgid "Something went wrong!"
+msgstr "出了些問題！"
+
+#: includes/Ajax.php:325 includes/Ajax.php:330
+msgid "Please provide your name."
+msgstr "請提供您的姓名"
+
+#: includes/Ajax.php:170 includes/Ajax.php:205
+msgid "You do not have permission to change this order"
+msgstr "您沒有權限更改此訂單"
+
+#: includes/Ajax.php:160 includes/Ajax.php:195
+msgid "You have taken too long. Please go back and retry."
+msgstr "你用的時間太長了 請回去重試。"
+
+#: includes/Ajax.php:156 includes/Ajax.php:191
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您沒有足夠的權限訪問此頁面。"
+
+#: includes/Admin/SetupWizard.php:167 includes/Vendor/SetupWizard.php:85
+msgid "Ready!"
+msgstr "準備！"
+
+#: includes/Admin/SetupWizardNoWC.php:177 includes/template-tags.php:375
+#: includes/Vendor/SetupWizard.php:80
+msgid "Payment"
+msgstr "付款"
+
+#: includes/Admin/SetupWizard.php:147 includes/template-tags.php:368
+#: includes/Vendor/SetupWizard.php:75 assets/js/vue-admin.js:5879
+msgid "Store"
+msgstr "商店"
+
+#: includes/Admin/SetupWizard.php:143 includes/Vendor/SetupWizard.php:70
+msgid "Introduction"
+msgstr "介紹"
+
+#: includes/Admin/Settings.php:426 includes/Install/Installer.php:169
+#: templates/global/header-menu.php:46
+msgid "My Orders"
+msgstr "我的訂單"
+
+#: includes/Install/Installer.php:163
+msgid "Store List"
+msgstr "商店列表"
+
+#: languages/dokan-lite.php:28 includes/Admin/Menu.php:42
+#: includes/Admin/Settings.php:418 includes/Admin/AdminBar.php:47
+#: includes/template-tags.php:323 includes/Install/Installer.php:157
+#: assets/js/vue-admin.js:6630
+msgid "Dashboard"
+msgstr "控制台"
+
+#: includes/Admin/Settings.php:340 includes/Admin/Settings.php:348
+#: includes/Admin/Hooks.php:78 includes/Admin/Hooks.php:84
+#: includes/Admin/Hooks.php:367 includes/Admin/Hooks.php:384
+#: includes/Admin/SetupWizard.php:336 includes/wc-template.php:17
+#: includes/wc-template.php:150 includes/wc-template.php:292
+#: includes/Install/Installer.php:93 templates/my-orders.php:31
+#: assets/js/vue-admin.js:3705
+msgid "Vendor"
+msgstr "供應商"
+
+#: includes/Vendor/SetupWizard.php:234 templates/settings/store-form.php:160
+msgid "Show email address in store"
+msgstr "在商店中顯示電子郵件地址"
+
+#: languages/dokan-lite.php:73 includes/Vendor/SetupWizard.php:230
+#: templates/settings/store-form.php:155 assets/js/vue-bootstrap.js:2197
+#: assets/js/vue-admin.js:2202
+msgid "Email"
+msgstr "電子郵件"
+
+#: languages/dokan-lite.php:91 includes/Privacy.php:221
+#: includes/Vendor/SetupWizard.php:221
+#: templates/admin-setup-wizard/step-store-wc-fields.php:58
+#: templates/admin-setup-wizard/step-store-wc-fields.php:59
+#: assets/js/vue-bootstrap.js:2635 assets/js/vue-bootstrap.js:2652
+#: assets/js/vue-admin.js:2640 assets/js/vue-admin.js:2657
+msgid "State"
+msgstr "州"
+
+#: includes/Vendor/SetupWizard.php:208
+msgid "Post/Zip Code"
+msgstr "郵政/郵編"
+
+#: languages/dokan-lite.php:87 includes/Privacy.php:218
+#: includes/Vendor/SetupWizard.php:203
+#: templates/admin-setup-wizard/step-store-wc-fields.php:51
+#: templates/settings/address-form.php:57 assets/js/vue-bootstrap.js:2543
+#: assets/js/vue-bootstrap.js:2558 assets/js/vue-admin.js:2548
+#: assets/js/vue-admin.js:2563
+msgid "City"
+msgstr "市"
+
+#: languages/dokan-lite.php:86 includes/Vendor/SetupWizard.php:197
+#: templates/settings/address-form.php:41 assets/js/vue-bootstrap.js:2508
+#: assets/js/vue-bootstrap.js:2523 assets/js/vue-admin.js:2513
+#: assets/js/vue-admin.js:2528
+msgid "Street 2"
+msgstr "街道2"
+
+#: includes/Vendor/SetupWizard.php:191
+msgid "Street"
+msgstr "街"
+
+#: includes/Vendor/SetupWizard.php:185 templates/settings/store-form.php:125
+msgid "Store Product Per Page"
+msgstr "存儲每頁產品"
+
+#: includes/Vendor/SetupWizard.php:181
+#: templates/admin-setup-wizard/step-store.php:1
+msgid "Store Setup"
+msgstr "商店設置"
+
+#: includes/Admin/SetupWizard.php:316 includes/Vendor/SetupWizard.php:156
+msgid "Not right now"
+msgstr "不是現在"
+
+#: includes/Vendor/SetupWizard.php:151
+msgid "Welcome to the Marketplace!"
+msgstr "歡迎來到市場！"
+
+#: includes/Vendor/SetupWizard.php:138
+msgid "Return to the Marketplace"
+msgstr "返回市場"
+
+#: includes/Order/functions.php:768 templates/orders/listing.php:52
+#: templates/orders/listing.php:78
+msgid "Order Total"
+msgstr "合計訂單"
+
+#: includes/Order/functions.php:764 templates/orders/details.php:21
+msgid "Order Items"
+msgstr "訂購商品"
+
+#: includes/Vendor/SetupWizard.php:483
+msgid "Go to your Store Dashboard!"
+msgstr "轉到您的商店儀表板！"
+
+#: includes/Vendor/SetupWizard.php:478
+msgid "Your Store is Ready!"
+msgstr "你的商店準備好了！"
+
+#: includes/Vendor/SetupWizard.php:374
+msgid "Payment Setup"
+msgstr "付款設置"
+
+#: includes/Admin/SetupWizard.php:525 includes/Vendor/SetupWizard.php:244
+#: includes/Vendor/SetupWizard.php:397
+#: templates/admin-setup-wizard/step-store.php:101
+#: templates/admin-setup-wizard/step-selling.php:54
+msgid "Skip this step"
+msgstr "跳過此步驟"
+
+#: includes/Admin/SetupWizardWCAdmin.php:232 includes/Admin/SetupWizard.php:524
+#: includes/Admin/SetupWizard.php:565 includes/Vendor/SetupWizard.php:243
+#: includes/Vendor/SetupWizard.php:396
+#: templates/admin-setup-wizard/step-store.php:100
+#: templates/admin-setup-wizard/step-selling.php:53
+msgid "Continue"
+msgstr "繼續"
+
+#: includes/Dashboard/Templates/Settings.php:308
+#: includes/Dashboard/Templates/Settings.php:368
+#: includes/Dashboard/Templates/Settings.php:415
+#: includes/Dashboard/Templates/Settings.php:452
+msgid "Invalid email"
+msgstr "不合規電郵"
+
+#: includes/Dashboard/Templates/Settings.php:300
+#: includes/Dashboard/Templates/Settings.php:360
+#: includes/Dashboard/Templates/Settings.php:407
+msgid "Store type required"
+msgstr "需要商店類型"
+
+#: includes/Dashboard/Templates/Settings.php:294
+#: includes/Dashboard/Templates/Settings.php:401
+msgid "Store name required"
+msgstr "需要商店名稱"
+
+#: includes/Dashboard/Templates/Settings.php:263
+msgid "Your information has been saved successfully"
+msgstr "您的設定已經成功儲存"
+
+#: includes/Dashboard/Templates/Settings.php:60
+msgid "Payment Settings"
+msgstr "付款設置"
+
+#: languages/dokan-lite.php:59 includes/Admin/Menu.php:59
+#: includes/Admin/AdminBar.php:68 includes/template-tags.php:354
+#: includes/Dashboard/Templates/Settings.php:58
+#: includes/Dashboard/Templates/Settings.php:62 dokan.php:438
+#: assets/js/vue-admin.js:9911
+msgid "Settings"
+msgstr "設置"
+
+#: includes/Dashboard/Templates/Products.php:256
+#: includes/Dashboard/Templates/Products.php:404
+#: includes/Product/functions.php:42
+msgid "Please select AT LEAST ONE category"
+msgstr "請選擇至少一個類別"
+
+#: includes/Dashboard/Templates/Products.php:251
+#: includes/Dashboard/Templates/Products.php:399
+#: includes/Product/functions.php:38
+msgid "Please select a category"
+msgstr "請選擇一個類別"
+
+#: includes/Dashboard/Templates/Products.php:244
+#: includes/Dashboard/Templates/Products.php:392
+#: includes/Product/functions.php:33
+msgid "Please enter product title"
+msgstr "請輸入產品標題"
+
+#: includes/Dashboard/Templates/Products.php:235
+msgid "Details of your product ..."
+msgstr "您的產品的詳細信息..."
+
+#: languages/dokan-lite.php:111 includes/Privacy.php:194
+#: includes/functions.php:2318 assets/js/vue-bootstrap.js:6106
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/Dashboard/Templates/Withdraw.php:500
+#: includes/Dashboard/Templates/Withdraw.php:526
+msgid "Sorry, no transactions were found!"
+msgstr "對不起，沒有發現任何交易！"
+
+#: includes/Dashboard/Templates/Withdraw.php:440
+msgid "You don't have sufficient balance for a withdraw request!"
+msgstr "您的提款請求沒有足夠的餘額！"
+
+#: includes/Dashboard/Templates/Withdraw.php:430
+msgid "Please submit your request after approval or cancellation of your previous request."
+msgstr "請在批准或取消之前的請求後提交您的請求。"
+
+#: includes/Dashboard/Templates/Withdraw.php:430
+msgid "You already have pending withdraw request(s)."
+msgstr "您已經有待處理的撤銷請求。"
+
+#: includes/Dashboard/Templates/Withdraw.php:385
+msgid "Unknown error!"
+msgstr "未知錯誤！"
+
+#: includes/Dashboard/Templates/Withdraw.php:381
+msgid "Your request has been received successfully and being reviewed!"
+msgstr "您的請求已成功收到並被審查！"
+
+#: includes/Dashboard/Templates/Withdraw.php:377
+msgid "Your request has been cancelled successfully!"
+msgstr "您的請求已成功取消！"
+
+#: languages/dokan-lite.php:83 includes/Admin/UserProfile.php:39
+#: includes/Assets.php:399 assets/js/vue-bootstrap.js:533
+#: assets/js/vue-bootstrap.js:569 assets/js/vue-admin.js:533
+#: assets/js/vue-admin.js:569
+msgid "Not Available"
+msgstr "不可用"
+
+#. Plugin Name of the plugin
+#: includes/Privacy.php:30 includes/Admin/Menu.php:39
+#: includes/Admin/AdminBar.php:38
+msgid "Dokan"
+msgstr "Dokan"
+
+#: includes/Admin/Menu.php:32 includes/Admin/Menu.php:43
+#: includes/Admin/AdminBar.php:54 includes/Admin/SetupWizard.php:157
+#: includes/template-tags.php:345 includes/functions.php:2961
+#: templates/withdraw/header.php:11
+msgid "Withdraw"
+msgstr "收回"
+
+#: dokan.php:439
+msgid "Documentation"
+msgstr "文件"
+
+#: dokan.php:435
+msgid "Get Pro"
+msgstr "獲得專業版"
+
+#: languages/dokan-lite.php:131 assets/js/dokan-upgrade.js:150
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "強烈建議您在繼續操作之前備份數據庫。你確定你現在要運行updater嗎？"
+
+#: languages/dokan-lite.php:125 assets/js/vue-admin.js:7170
+msgid "Withdraw Requests"
+msgstr "取款請求"
+
+#: includes/functions.php:764 templates/dashboard/products-widget.php:41
+#: templates/withdraw/pending-request-listing.php:41
+msgid "Pending Review"
+msgstr "待審核"
+
+#: includes/functions.php:763 templates/products/others.php:17
+msgid "Draft"
+msgstr "草案"
+
+#: includes/functions.php:762 templates/products/others.php:16
+msgid "Online"
+msgstr "線上"
+
+#: includes/Product/functions.php:166 templates/my-orders.php:29
+#: templates/orders/listing.php:54 templates/orders/listing.php:84
+#: templates/sub-orders.php:27 templates/products/products-listing-row.php:53
+#: templates/products/products-listing.php:89
+#: templates/withdraw/pending-request-listing.php:18
+#: assets/js/vue-admin.js:3711 assets/js/vue-admin.js:5893
+msgid "Status"
+msgstr "狀態"
+
+#: includes/Order/functions.php:515
+#: includes/Dashboard/Templates/Dashboard.php:116
+#: templates/dashboard/orders-widget.php:41
+msgid "Cancelled"
+msgstr "取消"
+
+#: templates/orders/details.php:251
+msgid "Customer Note:"
+msgstr "客戶注意事項"
+
+#: templates/orders/details.php:237
+msgid "Customer IP:"
+msgstr "客戶IP："
+
+#: templates/orders/details.php:179
+msgid "&nbsp; Edit"
+msgstr "＆nbsp; 編輯"
+
+#: templates/orders/details.php:7
+msgid "This is not yours, I swear!"
+msgstr "這不是你的，我發誓！"
+
+#: templates/orders/date-export.php:49
+msgid "Export All"
+msgstr "全部導出"
+
+#: templates/orders/date-export.php:39 templates/store-lists-filter.php:40
+#: templates/products/listing-filter.php:48
+msgid "Filter"
+msgstr "過濾"
+
+#: templates/my-orders.php:106
+msgid "No orders found!"
+msgstr "沒有找到訂單！"
+
+#: includes/Product/functions.php:443 templates/my-orders.php:88
+#: templates/orders/listing.php:161 templates/sub-orders.php:59
+msgid "View"
+msgstr "視圖"
+
+#: templates/my-orders.php:77
+msgid "Pay"
+msgstr "工資"
+
+#: templates/my-orders.php:65
+msgid "Multiple Vendor"
+msgstr "多個供應商"
+
+#: templates/dashboard/edit-account.php:83
+msgid "Confirm New Password"
+msgstr "確認新密碼"
+
+#: includes/Widgets/StoreLocation.php:40 includes/Widgets/StoreLocation.php:98
+#: templates/store-sidebar.php:19
+msgid "Store Location"
+msgstr "商店位置"
+
+#: includes/Widgets/StoreContactForm.php:40
+#: includes/Widgets/StoreContactForm.php:114 templates/store-sidebar.php:27
+msgid "Contact Vendor"
+msgstr "聯繫商家"
+
+#: templates/orders/order-download-permission-html.php:33
+msgid "Downloads Remaining"
+msgstr "未完成下載"
+
+#: includes/wc-functions.php:868 templates/dashboard/edit-account.php:65
+#: templates/account/vendor-registration.php:27
+msgid "Email address"
+msgstr "電子郵件地址"
+
+#: includes/Product/functions.php:185
+msgid "Length"
+msgstr "長度"
+
+#: includes/Admin/SetupWizardWCAdmin.php:84
+#: includes/Admin/SetupWizardNoWC.php:183 includes/Product/functions.php:184
+msgid "Shipping"
+msgstr "運輸"
+
+#: includes/Product/functions.php:182
+#: templates/products/products-listing-row.php:68
+#: templates/products/products-listing.php:94
+msgid "Stock"
+msgstr "股票"
+
+#: templates/orders/order-download-permission-html.php:30
+msgid "%s time"
+msgid_plural "%s times"
+msgstr[0] "%s遍"
+
+#: includes/Product/functions.php:180 templates/products/inventory.php:3
+msgid "Inventory"
+msgstr "庫存"
+
+#: includes/Product/functions.php:178
+msgid "Set scheduled sale dates"
+msgstr "設定預定銷售日期"
+
+#: templates/orders/order-download-permission-html.php:28
+msgid "Downloaded"
+msgstr "下載"
+
+#: templates/orders/order-download-permission-html.php:17
+msgid "Revoke Access"
+msgstr "移除存取權限"
+
+#: templates/orders/order-download-permission-html.php:7
+msgid "File %d: %s"
+msgstr "File %d: %s"
+
+#: templates/orders/listing.php:151
+msgid "Complete"
+msgstr "完成"
+
+#: includes/Dashboard/Templates/Settings.php:81
+msgid "These are the withdraw methods available for you. Please update your payment information below to submit withdraw requests and get your store payments seamlessly."
+msgstr "這些是您可以使用的撤銷方法。請在下面更新您的付款信息，以提交提款請求，並無縫地獲得商店支付。"
+
+#: templates/products/products-listing-row.php:139
+msgid "Y/m/d"
+msgstr "YYYY/MM/DD"
+
+#: templates/orders/listing.php:225
+msgid "No orders found"
+msgstr "找不到訂單"
+
+#: templates/orders/listing.php:122
+#: templates/products/products-listing-row.php:137
+msgid "%s ago"
+msgstr "%s 之前"
+
+#: templates/dashboard/edit-account.php:78
+msgid "New Password (leave blank to leave unchanged)"
+msgstr "新密碼（留空，保持不變）"
+
+#: templates/dashboard/edit-account.php:73
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr "當前密碼（留空）"
+
+#: templates/dashboard/edit-account.php:70
+msgid "Password Change"
+msgstr "密碼更改"
+
+#: templates/dashboard/edit-account.php:59
+msgid "Last name"
+msgstr "姓"
+
+#: languages/dokan-lite.php:66 includes/wc-functions.php:867
+#: templates/account/vendor-registration.php:14
+#: templates/global/seller-registration-form.php:20
+#: assets/js/vue-bootstrap.js:2037 assets/js/vue-bootstrap.js:2052
+#: assets/js/vue-admin.js:2042 assets/js/vue-admin.js:2057
+msgid "Last Name"
+msgstr "姓"
+
+#: templates/dashboard/big-counter-widget.php:25
+msgid "Pageview"
+msgstr "頁面瀏覽"
+
+#: languages/dokan-lite.php:65 includes/wc-functions.php:866
+#: templates/account/vendor-registration.php:9
+#: templates/global/seller-registration-form.php:15
+#: assets/js/vue-bootstrap.js:2006 assets/js/vue-bootstrap.js:2021
+#: assets/js/vue-admin.js:2011 assets/js/vue-admin.js:2026
+msgid "First Name"
+msgstr "名字"
+
+#: includes/Registration.php:64
+msgid "Please enter your phone number."
+msgstr "請輸入您的電話號碼。"
+
+#: includes/Registration.php:63
+msgid "Please enter your last name."
+msgstr "請輸入您的姓氏。"
+
+#: templates/dashboard/edit-account.php:54
+msgid "First name"
+msgstr "名"
+
+#: includes/Registration.php:62
+msgid "Please enter your first name."
+msgstr "請輸入您的名字。"
+
+#: templates/dashboard/edit-account.php:47
+msgid "Edit Account Details"
+msgstr "編輯帳戶"
+
+#: includes/template-tags.php:120 templates/store-lists-loop.php:103
+msgid "Next &rarr;"
+msgstr "下一個"
+
+#: includes/Product/functions.php:177
+msgid "Decrease sale prices (fixed amount or percentage)"
+msgstr "銷售價格下降（固定金額或百分比）"
+
+#: includes/Product/functions.php:176
+msgid "Increase sale prices (fixed amount or percentage)"
+msgstr "提高售價（固定金額或百分比）"
+
+#: templates/orders/listing.php:73 templates/orders/listing.php:75
+msgid "Order %s"
+msgstr "訂單 %s"
+
+#: templates/orders/downloadable.php:38
+msgid "Choose a downloadable product&hellip;"
+msgstr "選擇可下載商品&hellip;"
+
+#: templates/orders/details.php:295
+msgid "There are no notes for this order yet."
+msgstr "此訂單沒有其他備註"
+
+#: templates/orders/details.php:286
+msgid "added %s ago"
+msgstr "%s之前新增"
+
+#: templates/my-orders.php:55 templates/sub-orders.php:51
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s for %s items"
+
+#: languages/dokan-lite.php:115 includes/Privacy.php:196
+#: includes/functions.php:2326 assets/js/vue-bootstrap.js:6199
+msgid "Twitter"
+msgstr "推特"
+
+#: languages/dokan-lite.php:113 includes/Privacy.php:201
+#: includes/functions.php:2346 assets/js/vue-bootstrap.js:6137
+msgid "Flickr"
+msgstr "Flickr"
+
+#: languages/dokan-lite.php:119 includes/Privacy.php:200
+#: includes/functions.php:2342 assets/js/vue-bootstrap.js:6339
+msgid "Instagram"
+msgstr "Instagram"
+
+#: languages/dokan-lite.php:116 includes/Privacy.php:199
+#: includes/functions.php:2338 assets/js/vue-bootstrap.js:6234
+msgid "Youtube"
+msgstr "Youtube"
+
+#: languages/dokan-lite.php:7 assets/js/vue-admin.js:9773
+msgid "Active"
+msgstr "啟用"
+
+#: templates/account/vendor-registration.php:67
+#: templates/global/seller-registration-form.php:49
+msgid "I have read and agree to the <a target=\"_blank\" href=\"%s\">Terms &amp; Conditions</a>."
+msgstr "I have read and agree to the <a target=\"_blank\" href=\"%s\">Terms &amp; Conditions</a>."
+
+#: templates/global/header-menu.php:13
+msgid "Cart %s"
+msgstr "Cart %s"
+
+#: templates/dashboard/big-counter-widget.php:21
+#: templates/orders/listing.php:53 templates/orders/listing.php:81
+#: templates/products/products-listing-row.php:86
+#: templates/products/products-listing.php:96
+msgid "Earning"
+msgstr "收益"
+
+#: includes/Registration.php:56
+msgid "Cheating, eh?"
+msgstr "Cheating, eh?"
+
+#: includes/template-tags.php:198
+#: templates/products/listing-status-filter.php:13
+msgid "All (%d)"
+msgstr "全部商品 (%d)"
+
+#: includes/template-tags.php:105 includes/template-tags.php:109
+#: templates/store-lists-loop.php:102
+msgid "&larr; Previous"
+msgstr "&larr; Previous"
+
+#: includes/Product/functions.php:181
+msgid "Toggle &quot;Manage stock&quot;"
+msgstr "Toggle &quot;Manage stock&quot;"
+
+#: includes/Product/functions.php:153
+msgid "Before you can add a variation you need to add some variation attributes on the <strong>Attributes</strong> section"
+msgstr "Before you can add a variation you need to add some variation attributes on the <strong>Attributes</strong> section"
+
+#: languages/dokan-lite.php:114 assets/js/vue-bootstrap.js:6168
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: languages/dokan-lite.php:82 includes/Ajax.php:139
+#: includes/Admin/UserProfile.php:38 includes/Assets.php:398
+#: assets/js/vue-bootstrap.js:523 assets/js/vue-bootstrap.js:559
+#: assets/js/vue-bootstrap.js:595 assets/js/vue-admin.js:523
+#: assets/js/vue-admin.js:559 assets/js/vue-admin.js:595
+msgid "Available"
+msgstr "Available"
+
+#: templates/withdraw/pending-request-listing.php:43
+msgid "Accepted"
+msgstr "Accepted"
+
+#: includes/Dashboard/Templates/Withdraw.php:320
+msgid "<br>Withdraw Threshold: %d days "
+msgstr "<br>Withdraw Threshold: %d days "
+
+#: includes/Dashboard/Templates/Withdraw.php:316
+msgid "<br>Minimum Withdraw amount: %s "
+msgstr "<br>Minimum Withdraw amount: %s "
+
+#: includes/Dashboard/Templates/Withdraw.php:313
+msgid "Current Balance: %s "
+msgstr "Current Balance: %s "
+
+#: includes/Dashboard/Templates/Settings.php:606
+msgid "Electronic"
+msgstr "Electronic"
+
+#: includes/Dashboard/Templates/Settings.php:605
+msgid "Dress"
+msgstr "Dress"
+
+#: includes/Dashboard/Templates/Settings.php:604
+msgid "Book"
+msgstr "Book"
+
+#: includes/Dashboard/Templates/Settings.php:327
+msgid "Address field for %s is required"
+msgstr "Address field for %s is required"
+
+#: includes/Admin/SetupWizard.php:315 includes/Vendor/SetupWizard.php:155
+#: templates/admin-setup-wizard/step-no-wc-introduction.php:54
+msgid "Let's Go!"
+msgstr "現在開始！"
+
+#: includes/Vendor/SetupWizard.php:153
+msgid "No time right now? If you don’t want to go through the wizard, you can skip and return to the Store!"
+msgstr "No time right now? If you don’t want to go through the wizard, you can skip and return to the Store!"
+
+#: includes/Vendor/SetupWizard.php:152
+msgid "Thank you for choosing The Marketplace to power your online store! This quick setup wizard will help you configure the basic settings. <strong>It’s completely optional and shouldn’t take longer than two minutes.</strong>"
+msgstr "Thank you for choosing The Marketplace to power your online store! This quick setup wizard will help you configure the basic settings. <strong>It’s completely optional and shouldn’t take longer than two minutes.</strong>"
+
+#: includes/Vendor/SetupWizard.php:119
+msgid "Vendor &rsaquo; Setup Wizard"
+msgstr "Vendor &rsaquo; Setup Wizard"
+
+#: includes/Ajax.php:268
+msgid "File %d"
+msgstr "File %d"
+
+#: templates/seller-search-form.php:2
+msgid "Search Results for: %s"
+msgstr "「%s」的搜尋結果"
+
+#: templates/products/new-product-single.php:412
+msgid "Short Description"
+msgstr "簡短內容說明"
+
+#: templates/products/products-listing-row.php:130
+msgid "Y/m/d g:i:s A"
+msgstr "Y 年 n 月 j 日a g:i:s"
+
+#: includes/functions.php:3172
+msgid "Off Day"
+msgstr "未營業時間"
+
+#: includes/Widgets/StoreCategoryMenu.php:33
+#: includes/Widgets/StoreCategoryMenu.php:76 templates/store-sidebar.php:15
+msgid "Store Product Category"
+msgstr "商品類別"
+
+#: includes/Vendor/Vendor.php:839 templates/settings/store-form.php:280
+msgid "Store is open"
+msgstr "商店營業中"
+
+#: includes/Vendor/Vendor.php:853 templates/settings/store-form.php:290
+msgid "Store is closed"
+msgstr "商店休息中"
